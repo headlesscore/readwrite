@@ -6,6 +6,7 @@ pipeline {
 			steps {
 				echo "Hello, World!"
 				echo "Goodbye, World!"
+				echo "Not yet, Goodbye."
 			}
 		}
 	}
